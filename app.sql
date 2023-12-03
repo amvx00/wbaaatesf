@@ -1,4 +1,3 @@
-drop table if exists schedule;
 create table schedule (
 	id serial,
 	doctor_name text,
